@@ -67,7 +67,7 @@ Final output CSV format:
 ## Results Summary
 
 | Evaluation Aspect | Description |
-
+|-----------|----------------|
 | Preprocessing & Understanding | Well-handled missing data, merging, and formatting 
 | Data Exploration | Some insightful EDA, but could include more visualizations 
 | Model Building | LightGBM with ranking evaluation and good validation 
@@ -76,10 +76,10 @@ Final output CSV format:
 ## Repository structure
 Predictive_Restaurant_Recommender
 
-- Predictive_Restaurant_Recommender.ipynb # Main Jupyter Notebook
--  Assignment_few_output_samples.csv # Final predictions in required format
-- README.md # Project documentation
-- data/ # Train/Test data (not included)
+- Predictive_Restaurant_Recommender.ipynb (**Main Jupyter Notebook**)
+-  Assignment_few_output_samples.csv (**Final predictions in required format**)
+- README.md (**Project documentation**)
+- data/ (** Train/Test data (not included)**)
 
 
 ## Future Improvements
