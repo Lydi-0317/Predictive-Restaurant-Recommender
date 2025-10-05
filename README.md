@@ -46,7 +46,7 @@ Created features capturing:
 
 ### 6. **Submission Format**
 Final output CSV format:
-| CID X LOC_NUM X VENDOR | target |
+| **CID X LOC_NUM X VENDOR** | **target** |
 | Z59FTQD X 0 X 243 | 0 |
 | 0JP29SK X 0 X 243 | 0 |
 | 0JP29SK X 1 X 243 | 0 |
@@ -72,13 +72,13 @@ Final output CSV format:
 | Model Building | LightGBM with ranking evaluation and good validation 
 
 
-## Repository Structure
-Predictive_Restaurant_Recommender/
-│
-├── Predictive_Restaurant_Recommender.ipynb # Main Jupyter Notebook
-├── Assignment_few_output_samples.csv # Final predictions in required format
-├── README.md # Project documentation
-└── data/ # Train/Test data (not included)
+## Repository structure
+Predictive_Restaurant_Recommender
+
+- Predictive_Restaurant_Recommender.ipynb # Main Jupyter Notebook
+-  Assignment_few_output_samples.csv # Final predictions in required format
+- README.md # Project documentation
+- data/ # Train/Test data (not included)
 
 
 ## Future Improvements
