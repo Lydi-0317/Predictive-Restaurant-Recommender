@@ -46,14 +46,11 @@ Created features capturing:
 
 ### 6. **Submission Format**
 Final output CSV format:
-CID X LOC_NUM X VENDOR,target
-Z59FTQD X 0 X 243,0
-0JP29SK X 0 X 243,0
-0JP29SK X 1 X 243,0
+| CID X LOC_NUM X VENDOR | target |
+| Z59FTQD X 0 X 243 | 0 |
+| 0JP29SK X 0 X 243 | 0 |
+| 0JP29SK X 1 X 243 | 0 |
 
-
-
----
 
 ## Tech Stack
 
